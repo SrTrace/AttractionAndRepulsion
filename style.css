@@ -1,3 +1,6 @@
 body {
-    background: red;
+    margin: 0;
+    overflow: hidden;
+    background: rgb(20, 20, 45);
+    cursor: none;
 }
